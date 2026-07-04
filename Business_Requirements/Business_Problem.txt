@@ -27,3 +27,27 @@ They want an AI platform that
 ✔ predicts machine failure
 
 ✔ recommends preventive actions
+
+
+Imagine you are working for Samsung Electronics.
+
+The company has 40 manufacturing machines producing electronic components 24×7.
+
+Every day, the factory generates thousands of sensor readings.
+
+Currently:
+
+Engineers inspect machines manually.
+Defects are identified only after production.
+Machine failures cause downtime.
+Maintenance is scheduled manually.
+Managers lack a unified dashboard.
+
+The company wants an AI platform that can answer:
+
+Which machines are likely to fail?
+Which products are likely to be defective?
+What factors cause defects?
+Which shifts perform poorly?
+Which operators need additional training?
+When should preventive maintenance be scheduled?
