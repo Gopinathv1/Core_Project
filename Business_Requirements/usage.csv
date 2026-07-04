@@ -1,0 +1,15 @@
+| Skill              | Usage              |
+| ------------------ | ------------------ |
+| Python             | Entire project     |
+| Pandas             | Cleaning           |
+| NumPy              | Matrix operations  |
+| Statistics         | EDA                |
+| Matplotlib         | Visualization      |
+| Scikit-learn       | ML                 |
+| TensorFlow/PyTorch | DL                 |
+| OpenCV             | Computer Vision    |
+| NLP                | Complaint analysis |
+| AutoEncoder        | Anomaly Detection  |
+| Flask/FastAPI      | API                |
+| Streamlit          | Dashboard          |
+| Git                | Version Control    |

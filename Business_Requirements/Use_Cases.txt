@@ -1,0 +1,14 @@
+Why this project is valuable:
+
+This single platform lets you demonstrate nearly every skill expected of an AI Engineer:
+
+Python:                 OOP, modular code, error handling, packaging
+NumPy & Pandas:         data manipulation and preprocessing
+Statistics:             EDA, hypothesis testing, feature analysis
+Machine Learning:       classification, evaluation, feature importance
+Deep Learning:          neural networks for tabular and image data
+Computer Vision:        OpenCV, CNNs, transfer learning
+NLP:                    text preprocessing, embeddings, classification
+Autoencoders:           unsupervised anomaly detection
+Software Engineering:   Git, project structure, documentation
+Deployment:             Streamlit/FastAPI application
