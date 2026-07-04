@@ -1,0 +1,68 @@
+                    Manufacturing Data
+
+          Images
+              |
+              |
+          OpenCV
+              |
+              V
+
+     CNN Defect Detection
+
+-------------------------------------
+
+ Sensor Data
+
+ Temperature
+ Pressure
+ Voltage
+ Current
+
+        |
+        |
+    Pandas
+        |
+        |
+ Statistics
+        |
+        |
+ Random Forest
+ XGBoost
+ AutoEncoder
+        |
+        |
+ Failure Prediction
+
+-------------------------------------
+
+Customer Complaints
+
+Text
+
+↓
+
+NLP
+
+↓
+
+Sentiment
+
+↓
+
+Issue Category
+
+↓
+
+Root Cause
+
+-------------------------------------
+
+Manager Dashboard
+
+↓
+
+All Predictions
+
+↓
+
+Business Insights

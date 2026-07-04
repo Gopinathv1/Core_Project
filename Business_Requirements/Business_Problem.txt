@@ -1,0 +1,29 @@
+Business Problem
+
+A factory manufactures mobile phones.
+
+Every day
+
+100,000 phones are produced.
+
+Some have
+
+scratches
+broken screen
+camera issue
+battery issue
+software complaints
+
+Managers currently use Excel and manual inspection.
+
+They want an AI platform that
+
+✔ predicts defective products
+
+✔ detects scratches from images
+
+✔ analyses customer complaints
+
+✔ predicts machine failure
+
+✔ recommends preventive actions
